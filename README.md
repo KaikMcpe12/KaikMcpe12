@@ -1,12 +1,12 @@
 ### Hi there 👋, I'am Kaik
 <a href="https://github.com/KaikMcpe12">
-  <img align="left" alt="Github" width="22px" src="./icons/links/github.svg" />
+  <img align="left" alt="Github" width="22px" src="./icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/kaikmcpe12/" style="display:inline-block;margin-left:10px">
-  <img align="left" alt="Instagram" width="22px" src="./icons/links/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="./icons/instagram.svg" />
 </a>
 <a href="www.linkedin.com/in/kaik-oliveira-paiva-42856a298" style="display:inline-block;margin-left:10px">
-  <img align="left" alt="Instagram" width="22px" src="./icons/links/linkedin.svg" />
+  <img align="left" alt="Instagram" width="22px" src="./icons/linkedin.svg" />
 </a>
 
 - I'm a **beginner programmer** 

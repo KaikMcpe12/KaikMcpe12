@@ -8,6 +8,7 @@
 <a href="www.linkedin.com/in/kaik-oliveira-paiva-42856a298" style="display:inline-block;margin-left:10px">
   <img align="left" alt="Instagram" width="22px" src="./icons/linkedin.svg" />
 </a>
+<br>
 
 - I'm a **beginner programmer** 
 - I like to use various tools and **learn from them**

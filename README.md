@@ -9,6 +9,7 @@
   <img align="left" alt="Instagram" width="22px" src="./icons/linkedin.svg" />
 </a>
 <br>
+<br>
 
 - I'm a **beginner programmer** 
 - I like to use various tools and **learn from them**
